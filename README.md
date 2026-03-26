@@ -261,10 +261,6 @@ renderTasks();
 ## OUTPUT
 <img width="1624" height="823" alt="image" src="https://github.com/user-attachments/assets/633d3c20-7851-4a06-b0d8-46d916e3693c" />
 
-## Live Site:
-
-[Live WebSite](https://jothilakshmi12.github.io/To_Do_List/)
-
 ## RESULT
 The program for creating To-do list using JavaScript is executed successfully.
 ](https://github.com/selvasachein/To_Do_List)
