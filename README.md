@@ -1,4 +1,6 @@
-[# Ex03 To-Do List using JavaScript
+# Ex03 To-Do List using JavaScript
+
+
 ## Date: 10/03/2026
 ## Reg : 212224220093
 
